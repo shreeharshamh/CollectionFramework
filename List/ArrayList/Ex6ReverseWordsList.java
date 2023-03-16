@@ -12,7 +12,6 @@ public class Ex6ReverseWordsList {
 
         for(int i=0; i<planets.size(); i++) {
             System.out.print(planets.get(i) + " ");
-            
         }
 
         System.out.println();
